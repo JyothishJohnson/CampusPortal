@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118359557911",
+    "firebase_url": "https://campusportal-f72a9.firebaseio.com",
+    "project_id": "campusportal-f72a9",
+    "storage_bucket": "campusportal-f72a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118359557911:android:7d16359a59fea614",
+        "android_client_info": {
+          "package_name": "com.stephen.campusportall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118359557911-g3322k03ortntkke748etv4fdqcev18j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stephen.campusportall",
+            "certificate_hash": "9ec16bc5ba40bc67339bf727aa8f01b901912a66"
+          }
+        },
+        {
+          "client_id": "118359557911-rri1938f8f70pngaihkn6pm2hiqq5ul6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5HBKsvTe9h44WK1uN9Bgj7Vn_gvQOJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118359557911-rri1938f8f70pngaihkn6pm2hiqq5ul6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
